@@ -1,0 +1,40 @@
+_repo: Horse-hoeing-husbandry-b-or-an-essay-on-the-principles-of-vegetation-and-tillage-Designed-to-__74741
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tull, Jethro
+    birthdate: 1674
+    deathdate: 1741
+    gutenberg_agent_id: '57624'
+    url: http://www.gutenberg.org/2009/agents/57624
+    wikipedia: https://en.wikipedia.org/wiki/Jethro_Tull_(agriculturist)
+description: ''
+edition_note: Fourth edition.
+gutenberg_issued: '2024-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74741'
+  lccn: agr29001098
+language: en
+pgterms:marc904: https://archive.org/details/horsehoeinghusba00tull
+pgterms:marc905: 20220521110727tull
+pgterms:marc906: '1762'
+pgterms:marc907: gb
+production_note: Peter Becker, Harry Lamé and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bA. Millar, $c1762.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Agriculture -- Early works to 1800'
+- !lcsh 'Plows'
+- !lcsh 'Tillage'
+- !lcc 'S'
+- GITenberg
+title: 'Horse-hoeing husbandry : $b or, an essay on the principles of vegetation and
+  tillage. Designed to introduce a new method of culture; whereby the produce of land
+  will be increased, and the usual expence lessened. Together with accurate descriptions
+  and cuts of the instruments employed in it.'
+url: http://www.gutenberg.org/ebooks/74741
