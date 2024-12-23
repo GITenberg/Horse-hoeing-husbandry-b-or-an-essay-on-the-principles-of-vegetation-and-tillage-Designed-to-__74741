@@ -1,5 +1,8 @@
 _repo: Horse-hoeing-husbandry-b-or-an-essay-on-the-principles-of-vegetation-and-tillage-Designed-to-__74741
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74741-h/images/cover.jpg
 creator:
   author:
     agent_name: Tull, Jethro
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57624
     wikipedia: https://en.wikipedia.org/wiki/Jethro_Tull_(agriculturist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74741#Horse-hoeing-husbandry-b-or-an-essay-on-the-principles-of-vegetation-and-tillage-Designed-to-_
 edition_note: Fourth edition.
 gutenberg_issued: '2024-11-14'
 gutenberg_type: Text
